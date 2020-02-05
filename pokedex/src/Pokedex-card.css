@@ -1,0 +1,15 @@
+.Pokedex-card {
+	display: flex;
+	justify-content: space-evenly;
+	flex-wrap: wrap;
+}
+.poke-win {
+	color: green;
+}
+.poke-lose {
+	color: red;
+}
+.pokedex-title {
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+	text-align: center;
+}
