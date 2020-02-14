@@ -1,0 +1,14 @@
+.RollingDice {
+	display: flex;
+	flex-flow: column nowrap;
+	min-height: 10vh;
+}
+.RollingDice button {
+	align-self: center;
+	width: 15em;
+	padding: 2em;
+	background: slateblue;
+	border: 0px;
+	border-radius: 10px;
+	color: white;
+}

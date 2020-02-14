@@ -1,0 +1,19 @@
+.Lottery {
+	border: solid 5px olive;
+	padding: 1em 0 2em 0;
+	border-radius: 20%;
+	margin: 1em auto auto;
+	width: 40em;
+	text-align: center;
+	font-family: 'Courier New', Courier, monospace;
+}
+
+.Lottery button {
+	border: none;
+	border-radius: 10%;
+	padding: 20px;
+	background-color: darkblue;
+	color: white;
+	margin: 20px;
+	font-size: medium;
+}
