@@ -1,0 +1,12 @@
+body {
+	font-size: 1.1rem;
+	font-family: "Quicksand", sans-serif;
+	height: 100%;
+	background-image: linear-gradient(to right, rgba(171, 212, 203, 0.788), rgb(119, 24, 64));
+}
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}

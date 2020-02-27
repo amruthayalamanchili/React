@@ -1,0 +1,17 @@
+.NewBoxForm form {
+	width: 15rem;
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	flex-wrap: wrap;
+	margin: 20px;
+	padding: 2rem;
+	border: 2px solid purple;
+}
+.NewBoxForm input {
+	margin: 2rem;
+}
+.NewBoxForm button {
+	display: block;
+	margin: 2rem;
+}

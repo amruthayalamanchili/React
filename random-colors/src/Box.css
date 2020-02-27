@@ -1,0 +1,7 @@
+.Box {
+	display: -webkit-inline-box;
+	justify-content: space-evenly;
+	width: 150px;
+	height: 150px;
+	border: solid 2px black;
+}
